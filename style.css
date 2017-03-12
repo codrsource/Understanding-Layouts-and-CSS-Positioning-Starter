@@ -1,0 +1,45 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-size: 24px;
+	margin: 0;
+}
+
+#div-container {
+	width: 800px;
+	margin: auto;
+}
+
+#marker-top {
+	background-color: #B83C1A;
+}
+
+#marker-bottom {
+	background-color: #B83C1A;
+}
+
+#div-A {
+	background-color: #39EBE7;
+	padding: 10px;
+}
+
+#div-A-1 {
+	background-color: red;
+}
+
+#div-A-2 {
+	background-color: green;
+}
+
+#div-A-3 {
+	background-color: blue;
+}
+
+#div-B {
+	border-top: 5px solid black;
+	background-color: #39EBE7;
+}
